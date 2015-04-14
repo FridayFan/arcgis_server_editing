@@ -1,0 +1,16 @@
+{
+  "name": "EsriAngularTest",
+  "version": "1.0.0",
+  "description": "Using Angular with ArcGIS Javascript API for Urban Renewal project",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jian Fan",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1"
+  }
+}
